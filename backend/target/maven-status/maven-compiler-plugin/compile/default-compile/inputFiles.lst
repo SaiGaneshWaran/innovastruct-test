@@ -1,50 +1,50 @@
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\BackendApplication.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\AuthController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\BidAnalyticsController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\BidController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\ClientController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\CompanyController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\DashboardController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\ImageController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\PortfolioController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\SettingsController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\TenderController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\TenderLocationController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\controller\UserController.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\dto\PortfolioDTO.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\Bid.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\Certification.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\Company.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\FinancialStability.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\Image.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\Project.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\Review.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\ServicesOffered.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\Tender.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\TenderLocation.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\TrackRecord.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\User.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\model\UserSettings.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\repository\BidRepository.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\repository\CertificationRepository.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\repository\CompanyRepository.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\repository\ImageRepository.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\repository\ProjectRepository.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\repository\TenderLocationRepository.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\repository\TenderRepository.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\repository\UserRepository.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\repository\UserSettingsRepository.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\security\CustomUserDetailsService.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\security\JwtAuthenticationFilter.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\security\JwtTokenProvider.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\security\SecurityConfig.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\BidAnalyticsService.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\BidService.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\CompanyService.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\FileStorageService.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\PortfolioService.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\TenderLocationService.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\TenderLocationServiceImpl.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\TenderService.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\UserService.java
-C:\Users\saiga\Downloads\Client Server Architecture\Lab-Based-Practical-2025-Mock-Questions\src\main\java\com\example\lab\based\practical\mock\solutions\innova-struct\backend\src\main\java\com\example\backend\service\UserSettingsService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\BackendApplication.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\AuthController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\BidAnalyticsController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\BidController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\ClientController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\CompanyController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\DashboardController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\ImageController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\PortfolioController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\SettingsController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\TenderController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\TenderLocationController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\controller\UserController.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\dto\PortfolioDTO.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\Bid.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\Certification.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\Company.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\FinancialStability.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\Image.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\Project.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\Review.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\ServicesOffered.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\Tender.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\TenderLocation.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\TrackRecord.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\User.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\model\UserSettings.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\repository\BidRepository.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\repository\CertificationRepository.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\repository\CompanyRepository.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\repository\ImageRepository.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\repository\ProjectRepository.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\repository\TenderLocationRepository.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\repository\TenderRepository.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\repository\UserRepository.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\repository\UserSettingsRepository.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\security\CustomUserDetailsService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\security\JwtAuthenticationFilter.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\security\JwtTokenProvider.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\security\SecurityConfig.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\BidAnalyticsService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\BidService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\CompanyService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\FileStorageService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\PortfolioService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\TenderLocationService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\TenderLocationServiceImpl.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\TenderService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\UserService.java
+C:\Users\saiga\GitHub\innovastruct-test\backend\src\main\java\com\example\backend\service\UserSettingsService.java
